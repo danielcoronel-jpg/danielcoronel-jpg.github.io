@@ -44,10 +44,12 @@ body {
 .nav a:hover {
   text-decoration: underline;
 }
-.pub {
-  margin-bottom: 28px;
-}
+
 .pub { margin: 18px 0 22px; }
 .pub .title { font-weight: 700; line-height: 1.35; margin-bottom: 4px; }
 .pub .meta { color: var(--muted); line-height: 1.45; }
 .pub .venue { color: var(--muted); line-height: 1.45; }
+
+.pub {
+  margin-bottom: 28px;
+}
